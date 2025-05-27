@@ -1,8 +1,8 @@
-# 🚆 TARDIS: Train Delay Prediction System
+# 🚆 MetroScope: Train Delay Prediction System
 
 ## 📌 Project Overview
 
-**TARDIS** is a data analysis and prediction project developed for **SNCF** (French National Railway Company) to analyze historical train delay data, uncover patterns, and build a predictive model to forecast train delays. The project also features an interactive dashboard built with **Streamlit** 🧮📊 to help users visualize data insights and get real-time delay predictions.
+**MetroScope** is a data analysis and prediction project developed for **SNCF** (French National Railway Company) to analyze historical train delay data, uncover patterns, and build a predictive model to forecast train delays. The project also features an interactive dashboard built with **Streamlit** 🧮📊 to help users visualize data insights and get real-time delay predictions.
 
 The main goal is to **improve the efficiency and transparency** of train travel, enabling travelers and operators to better plan their schedules. 🗓️🚉
 
@@ -27,7 +27,7 @@ The main goal is to **improve the efficiency and transparency** of train travel,
 ## 🗂️ Project Structure
 
 ```
-tardis/
+MetroScope/
 │
 ├── dataset.csv               # 📥 Raw data file (input)
 ├── cleaned_dataset.csv       # 🧽 Cleaned data output after EDA
@@ -46,8 +46,8 @@ tardis/
 1. **📥 Clone the repository:**
 
 ```bash
-git clone git@github.com:EpitechPGEPromo2029/G-AIA-210-BAR-2-1-tardis-bruna-monasse.macuacua.git
-cd G-AIA-210-BAR-2-1-tardis-bruna-monasse.macuacua
+git clone git@github.com:BrunaM19/MetroScope.git
+cd MetroScope
 ```
 
 2. **🐍 Create a virtual environment (recommended):**
